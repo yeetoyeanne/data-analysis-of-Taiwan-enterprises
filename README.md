@@ -1,2 +1,2 @@
-# data-analysis-of-Taiwan-food-industry-
-data analysis of Taiwan food industry ,based on selected public data set of taiwan food enterprises
+# data-analysis-of-Taiwan-enterprises
+data analysis of several Taiwan enterprises ,based on selected public data set of taiwan  enterprises
